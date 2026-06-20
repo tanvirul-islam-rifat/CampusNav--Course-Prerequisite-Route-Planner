@@ -188,7 +188,7 @@ def topo_sort_bfs(catalog, lexicographic=False):
 # ═══════════════════════════════════════════════════════
 # SEMESTER PLANNER (level-by-level BFS layering)
 # ═══════════════════════════════════════════════════════
-
+ 
 def plan_semesters(catalog, max_credits_per_semester=15.0):
     """
     Groups courses into semesters using a layered BFS approach:
@@ -248,7 +248,7 @@ def plan_semesters(catalog, max_credits_per_semester=15.0):
 # ═══════════════════════════════════════════════════════
 # CLI
 # ═══════════════════════════════════════════════════════
-
+ 
 def seed_sample_catalog(catalog):
     """Pre-load a sample curriculum modeled after a BRAC CS-style course path."""
     sample_courses = [
