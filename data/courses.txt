@@ -1,0 +1,17 @@
+CSE110,3.0,Programming Language I
+CSE111,3.0,Programming Language II
+CSE220,3.0,Data Structures
+CSE221,3.0,Algorithms
+CSE230,3.0,Discrete Mathematics
+CSE260,3.0,Digital Logic Design
+CSE320,3.0,Data Communications
+CSE321,3.0,Operating Systems
+CSE370,3.0,Database Systems
+CSE331,3.0,Automata and Computability
+CSE422,3.0,Artificial Intelligence
+CSE470,3.0,Software Engineering
+CSE400,4.0,Project & Thesis
+MAT110,3.0,Differential Calculus and Co-ordinate Geometry
+MAT120,3.0,Integral Calculus and Differential Equations
+MAT216,3.0,Linear Algebra and Fourier Analysis
+MAT215,3.0,Complex Variables and Laplace Transformations
