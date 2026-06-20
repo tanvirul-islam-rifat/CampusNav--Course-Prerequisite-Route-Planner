@@ -4,8 +4,6 @@ A real-world academic planning tool that models a university curriculum as a **d
 
 This is the exact problem every CS student silently solves by hand each registration period — CampusNav solves it programmatically and provably correctly.
 
-Built as a course project for **CSE221 – Algorithms** at BRAC University.
-
 ---
 
 ## The Real-World Problem
@@ -35,7 +33,7 @@ CampusNav solves both, using three different algorithmic approaches so they can 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourGitHubUsername/campusnav-course-planner.git
+git clone https://github.com/tanvirul-islam-rifat/CampusNav--Course-Prerequisite-Route-Planner.git
 cd campusnav-course-planner
 
 # Run the application (Python 3 required, no external libraries needed)
@@ -117,5 +115,5 @@ campusnav-course-planner/
 
 **Md. Tanvirul Islam Rifat**
 
-- **GitHub:** [@YourGitHubUsername](https://github.com/YourGitHubUsername)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YourLinkedInProfile)
+* **GitHub:** [@tanvirul-islam-rifat](https://github.com/tanvirul-islam-rifat)
+* **LinkedIn:** [Tanvirul Islam Rifat](https://www.linkedin.com/in/tanvirul-islam-rifat)

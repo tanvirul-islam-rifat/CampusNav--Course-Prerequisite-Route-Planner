@@ -5,7 +5,6 @@ as a directed graph of prerequisites, then uses graph algorithms to compute
 valid completion orders, detect impossible (cyclic) curricula, and estimate
 the minimum number of semesters needed to graduate.
 
-Course: CSE221 - Algorithms
 """
 
 import os
