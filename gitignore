@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated data files (folder tracked, records are not)
+data/courses.txt
+data/prerequisites.txt
+
+# OS files
+.DS_Store
